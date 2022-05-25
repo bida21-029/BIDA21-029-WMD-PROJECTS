@@ -72,4 +72,15 @@ header{
     border: 2px solid lawngreen;
     background:blueviolet;
 }
+.ticketbutton{
+    position: absolute;
+    top: 80%;
+    left:40%;
+}
+
+.ticketbutton{
+    border: 2px solid lawngreen;
+    background-color: green;
+
+}
 
